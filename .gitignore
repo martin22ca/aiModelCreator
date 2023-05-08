@@ -2,3 +2,13 @@
 images/
 
 src/classRecogLib/__pycache__/
+
+src/dataset/
+
+src/moddedPics/
+
+src/shortDataset/
+
+src/models/knnPickleFile.pickle
+
+src/models/namesFile.pickle
